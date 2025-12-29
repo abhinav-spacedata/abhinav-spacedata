@@ -1,7 +1,4 @@
-
-
-<p align="center">
-  <img src=<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ac79e7a1-e81d-4f1a-a4a5-a7b09251ad9a" /> alt="Global Spacedata Banner" width="100%">
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ac79e7a1-e81d-4f1a-a4a5-a7b09251ad9a" /> alt="Global Spacedata Banner" width="100%">
 </p>
 
 # 🛰️ Abhinav Chaudhari | Spacedata Researcher
