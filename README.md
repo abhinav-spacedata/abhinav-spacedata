@@ -46,10 +46,19 @@ I am a Geospatial Data Scientist and an aspiring Astrophysicist. My research foc
 
 ---
 
+---
+
+---
+
 ## 📬 Let's Connect!
-- 📧 **Email:** [abhinav.space.rs@gmail.com]
-- 💬 **WhatsApp:** Message for Projects](https://wa.me/919411494800) *     (Professional Inquiries Only)*
--👥 **Facebook:** [https://www.facebook.com/share/1JZFfEGffe/]
--**🔗 LinkedIn:** Profile Under Construction 🏗️
--  **🌐 Website:** Coming Soon 🚀
-- **📍 Location:** Delhi NCR, India (Available for Global Remote projects)
+Feel free to reach out for research collaborations or data science discussions:
+
+- 📧 **Email:** [Send an Email](mailto:abhinav.space.rs@gmail.com)
+- 💬 **WhatsApp:** [Click here to Chat](https://wa.me/919411494800)
+- 👥 **Facebook:** [Connect on Facebook](https://www.facebook.com/share/1FrFQMjXea/)
+- 🔗 **LinkedIn:** [Connecting Soon...](https://github.com/abhinav-spacedata)
+- 🌐 **Portfolio Website:** [Research Portal Under Construction]
+
+---
+📍 **Location:** Delhi NCR, India | **Available for Global Remote Research & Astrophysics Collaborations**
+
