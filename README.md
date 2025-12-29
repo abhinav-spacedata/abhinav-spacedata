@@ -1,35 +1,55 @@
-# 🛰️ Abhinav Chaudhari
-### Space-GIS & Remote Sensing Researcher | Geospatial Data Analyst
-
-Passionate about leveraging satellite data to solve environmental challenges. My work focuses on predictive modeling, LULC dynamics, and climate-resilient urban planning.
+# 🛰️ Abhinav Chaudhari | Spacedata Researcher
+**Bridging Terrestrial Intelligence with Computational Astrophysics**
 
 ---
 
-### 🛠️ Core Technical Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Satellite Data](https://img.shields.io/badge/Satellite--Data-RS--GIS-green?style=for-the-badge&logo=nasa)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black)
+## 🔬 Research Profile
+I am a Geospatial Data Scientist and an aspiring Astrophysicist. My research focuses on using high-resolution satellite imagery to solve urban environmental challenges and applying similar computational models to explore cosmic data.
+
+- 🌍 **Geospatial:** Specializing in LULC change analysis, UHI projections, and Watershed Management.
+- 🌌 **Astrophysics:** Currently decoding the Universe through MIT & Harvard's specialized curriculum.
+- 🤖 **AI-Integrated:** Expert in using LLMs/AI tools for rapid geocomputation and predictive modeling.
 
 ---
 
-## 🚀 Featured Research Project
-### 📂 [LULC & UHI Mitigation Analysis - Delhi NCR 2045](https://github.com/abhinav-spacedata/LULC-Change-Analysis)
-Developed a stochastic thermal engine to simulate land cover transitions. Proven 4°C cooling potential through sustainable forest canopy restoration. Features dual-scenario modeling for future urban climate resilience.
+## 🚀 Featured Research
+### [LULC Change Analysis & Urban Heat Island Projection (2045)](https://github.com/abhinav-spacedata/LULC-Change-Analysis)
+**Study Area:** Delhi NCR - Ganga Basin
+- **Impact:** Predicted 4°C temperature mitigation through sustainable urban greening.
+- **Tools:** Python (Rasterio, Geopandas), Random Forest, Markov Chain Modeling.
+- **Scientific Goal:** Providing a data-driven roadmap for urban resilience.
 
 ---
 
-## 📫 Connect with me
-- **📧 Email:** abhinav.space.rs@gmail.com 
-- **💬 WhatsApp:** [Message for Projects](https://wa.me/919411494800) *(Professional Inquiries Only)*
-- **🔗 LinkedIn:** Profile Under Construction 🏗️
-- **🌐 Website:** Coming Soon 🚀
-- **📍 Location:** Delhi NCR, India (Available for Global Remote Projects)
+## 📜 Professional & Academic Timeline
+| Institution | Domain | Specialization | Status |
+| :--- | :--- | :--- | :--- |
+| **IIRS-ISRO** | Remote Sensing & GIS | 90-hour Comprehensive Certification | ✅ Completed |
+| **IIRS-ISRO** | Geomodelling | Watershed Management & Geoweb Services | ✅ Completed |
+| **MIT** | Astrophysics | Intro to Universe (Prof. Allan Guth) | 🔭 In-Progress |
+| **Harvard** | Astronomy | Astronomy & Astrophysics Program | 🔭 In-Progress |
 
 ---
-### 🤝 Open For:
-* Geospatial Data Analysis & Research Support
-* Satellite Image Processing (Landsat/Sentinel/MODIS)
-* LULC Classification & Predictive Modeling
 
-*"Analyzing the Earth from Space to build a sustainable future on ground."*
+## 🌌 Astrophysics Learning Roadmap
+- [x] **Stellar Evolution:** Life cycle of stars and classification.
+- [x] **Orbital Mechanics:** Kepler’s laws and planetary motion.
+- [–] **Cosmology:** Big Bang, Dark Matter, and Inflation. (Current Study)
+- [ ] **High Energy:** Black holes and X-ray binaries.
+
+---
+
+## 🛠️ Technical Ecosystem
+- **Core Languages:** Python (Astropy, Numpy, Pandas), SQL.
+- **Geospatial Tools:** QGIS, Google Earth Engine, Digital Image Analysis.
+- **AI for Research:** Code Automation, Data Visualization, and Prompt Engineering.
+
+---
+
+## 📬 Let's Connect!
+- 📧 **Email:** [abhinav.space.rs@gmail.com]
+- 💬 **WhatsApp:** Message for Projects](https://wa.me/919411494800) *     (Professional Inquiries Only)*
+-👥 **Facebook:** [https://www.facebook.com/share/1JZFfEGffe/]
+-**🔗 LinkedIn:** Profile Under Construction 🏗️
+-  **🌐 Website:** Coming Soon 🚀
+- **📍 Location:** Delhi NCR, India (Available for Global Remote projects)
