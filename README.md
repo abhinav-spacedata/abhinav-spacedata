@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="global-spacedata-banner.jpg" alt="Global Spacedata Banner" width="100%">
+</p>
+
+
 # 🛰️ Abhinav Chaudhari | Spacedata Researcher
 **Bridging Terrestrial Intelligence with Computational Astrophysics**
 
