@@ -59,7 +59,7 @@ Feel free to reach out for research collaborations or data science discussions:
 - 📧 **Email:** [Send an Email](mailto:abhinav.space.rs@gmail.com)
 - 💬 **WhatsApp:** [Click here to Chat](https://wa.me/919411494800)
 - 👥 **Facebook:** [Connect on Facebook](https://www.facebook.com/share/1FrFQMjXea/)
-- 🔗 **LinkedIn:** [Connecting Soon...](https://github.com/abhinav-spacedata)
+- 🔗 ***Linkedin:** [www.linkedin.com/in/abhinav-chaudhari-021b483a1(https://github.com/abhinav-spacedata)]
 - 🌐 **Portfolio Website:** [Research Portal Under Construction]
 
 ---
